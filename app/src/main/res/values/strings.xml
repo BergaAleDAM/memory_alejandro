@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Memory</string>
+    <string name="comenzar">Comenzar</string>
+    <string name="facil">Fácil</string>
+    <string name="medio">MMM inténtalo</string>
+    <string name="godMode">Imposible</string>
+    <string name="tiempo">Se ha acabado el tiempo</string>
+    <string name="ganador">Has ganado</string>
+    <string name="tiempo2">¿ Quieres volver a probar ?</string>
+    <string name="menu">Volver al menu</string>
+    <string name="exit">Salir</string>
+    <string name="tr">Te queda:</string>
+    <string name="sorry">Lo siento pero te quedaste sin tiempo</string>
+    <string name="memos">El memory para memos</string>
+</resources>
